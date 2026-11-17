@@ -1,0 +1,11 @@
+marque,annee,ville,kilometrage,prix,url_annonce,titre_annonce,date_collecte
+Dacia,2020,Marrakech,75000,115000,https://example.test/ad/001,Dacia Sandero 2020 - Très bon état,2026-11-17
+Dacia,2020,Marrakech,75000,108000,https://example.test/ad/002,Dacia Sandero 2020 - Première main,2026-11-17
+Renault,2018,Casablanca,120000,82000,https://example.test/ad/003,Renault Clio 2018 - Diesel,2026-11-17
+Renault,2018,Rabat,65000,94000,https://example.test/ad/004,Renault Clio 2018 - Faible kilométrage,2026-11-17
+Peugeot,2019,Casablanca,90000,99000,https://example.test/ad/005,Peugeot 208 2019 - Bon état,2026-11-17
+Volkswagen,2017,Marrakech,135000,112000,https://example.test/ad/006,Volkswagen Golf 2017 - Confortline,2026-11-17
+Hyundai,2021,Agadir,48000,128000,https://example.test/ad/007,Hyundai i20 2021 - Faible kilométrage,2026-11-17
+Fiat,2016,Fès,150000,69000,https://example.test/ad/008,Fiat Punto 2016 - Économique,2026-11-17
+Toyota,2022,Tanger,32000,185000,https://example.test/ad/009,Toyota Yaris 2022 - Très bon état,2026-11-17
+Citroën,2015,Meknès,165000,62000,https://example.test/ad/010,Citroën C3 2015 - Entretien suivi,2026-11-17

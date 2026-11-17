@@ -1,0 +1,9 @@
+[project]
+name = "prix-de-voiture-occasion-maroc"
+version = "0.1.0"
+description = "Etude le l'influence de la marque, l'âge, la ville, le kilométrage dans le prix d'une voiture d'occasion"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "playwright==1.65.2",
+]
