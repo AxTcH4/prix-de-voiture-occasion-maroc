@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+claude_docs/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+/data/cleaned/.~lock.used_car_ads_clean.csv#
+
+# Virtual environments
+.venv
