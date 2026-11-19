@@ -1,0 +1,86 @@
+{
+  "annee_reference": 2026,
+  "variables_entree": [
+    "prix",
+    "age",
+    "kilometrage"
+  ],
+  "k": 4,
+  "silhouette": 0.30058771942187085,
+  "mediane_imputation_kilometrage": 113550.0,
+  "note_kilometrage": "Statistiques de km calculées sur les valeurs renseignées uniquement ; part de km imputés fournie séparément.",
+  "segments": {
+    "1": {
+      "nom": "Entrée de gamme — véhicules anciens, kilométrage moyen",
+      "description": "Véhicules anciens (17 ans en médiane), kilométrage moyen (126 000 km en médiane), prix médian 98 000 DH (moitié centrale entre 68 000 et 118 000 DH). Marques fréquentes : Mercedes-Benz (7), Ford (6), Fiat (5).",
+      "annonces": 49,
+      "prix_median": 98000.0,
+      "prix_moyen": 103673.4693877551,
+      "prix_q1": 68000.0,
+      "prix_q3": 118000.0,
+      "age_moyen": 18.612244897959183,
+      "age_median": 17.0,
+      "km_moyen_renseigne": 116129.20833333333,
+      "km_median_renseigne": 126000.0,
+      "part_km_imputes_pct": 51.02040816326531,
+      "part_premium_pct": 28.57142857142857,
+      "marques_principales": "Mercedes-Benz (7), Ford (6), Fiat (5)"
+    },
+    "3": {
+      "nom": "Économique — véhicules anciens, kilométrage élevé",
+      "description": "Véhicules anciens (13 ans en médiane), kilométrage élevé (220 000 km en médiane), prix médian 125 000 DH (moitié centrale entre 98 000 et 160 000 DH). Marques fréquentes : Volkswagen (11), Mercedes-Benz (9), Land Rover (6).",
+      "annonces": 77,
+      "prix_median": 125000.0,
+      "prix_moyen": 131168.81818181818,
+      "prix_q1": 98000.0,
+      "prix_q3": 160000.0,
+      "age_moyen": 13.558441558441558,
+      "age_median": 13.0,
+      "km_moyen_renseigne": 233731.02597402598,
+      "km_median_renseigne": 220000.0,
+      "part_km_imputes_pct": 0.0,
+      "part_premium_pct": 35.064935064935064,
+      "marques_principales": "Volkswagen (11), Mercedes-Benz (9), Land Rover (6)"
+    },
+    "0": {
+      "nom": "Milieu de gamme — véhicules d'âge moyen, kilométrage moyen",
+      "description": "Véhicules d'âge moyen (5 ans en médiane), kilométrage moyen (120 000 km en médiane), prix médian 195 000 DH (moitié centrale entre 155 000 et 240 000 DH). Marques fréquentes : Peugeot (35), Volkswagen (34), Renault (27).",
+      "annonces": 316,
+      "prix_median": 195000.0,
+      "prix_moyen": 202393.9841772152,
+      "prix_q1": 155000.0,
+      "prix_q3": 240000.0,
+      "age_moyen": 5.6455696202531644,
+      "age_median": 5.0,
+      "km_moyen_renseigne": 114127.51836734694,
+      "km_median_renseigne": 120000.0,
+      "part_km_imputes_pct": 22.468354430379744,
+      "part_premium_pct": 15.822784810126583,
+      "marques_principales": "Peugeot (35), Volkswagen (34), Renault (27)"
+    },
+    "2": {
+      "nom": "Haut de gamme — véhicules récents, faible kilométrage",
+      "description": "Véhicules récents (3 ans en médiane), faible kilométrage (68 750 km en médiane), prix médian 398 000 DH (moitié centrale entre 325 000 et 590 000 DH). Marques fréquentes : Mercedes-Benz (31), Audi (22), Volkswagen (20).",
+      "annonces": 177,
+      "prix_median": 398000.0,
+      "prix_moyen": 484093.22033898305,
+      "prix_q1": 325000.0,
+      "prix_q3": 590000.0,
+      "age_moyen": 3.5028248587570623,
+      "age_median": 3.0,
+      "km_moyen_renseigne": 70041.5,
+      "km_median_renseigne": 68750.0,
+      "part_km_imputes_pct": 14.124293785310737,
+      "part_premium_pct": 57.6271186440678,
+      "marques_principales": "Mercedes-Benz (31), Audi (22), Volkswagen (20)"
+    }
+  },
+  "ordre_par_prix": [
+    1,
+    3,
+    0,
+    2
+  ],
+  "random_state": 42,
+  "version_sklearn": "1.9.1"
+}
