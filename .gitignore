@@ -13,3 +13,4 @@ claude_docs/
 
 # Virtual environments
 .venv
+.claude
